@@ -1,6 +1,6 @@
 const ig = require("./instagram");
-const username = "sagarsharma4244";
-const password = "purnima9236727082";
+const username = "-----------";
+const password = "-----------";
 (async () => {
   await ig.initialize();
 
